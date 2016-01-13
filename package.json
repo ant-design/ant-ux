@@ -1,0 +1,28 @@
+{
+  "name": "Ant-UX",
+  "version": "0.6.0",
+  "private": "true",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "gulp site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-design/ant-ux.git"
+  },
+  "dependencies": {
+    "express": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-styl": "~1.1.0",
+    "gulp-watch": "^4.3.5",
+    "jade": "~1.11.0",
+    "jquery": "*",
+    "marked": "~0.3.3",
+    "nib": "~1.1.0"
+  },
+  "devDependencies": {
+    "gulp-sitemap": "~2.2.0"
+  }
+}
