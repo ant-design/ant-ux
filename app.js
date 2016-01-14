@@ -2,7 +2,6 @@
  * Module dependencies
  */
 var express = require('express');
-
 var app = express();
 var options = {
   dotfiles: 'ignore',
