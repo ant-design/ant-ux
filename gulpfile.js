@@ -21,5 +21,12 @@ gulp.task('js', function() {
 	gulp.src('views/public/js/*.js')
 	.pipe(gulp.dest('./public/js/'));
 });
+gulp.task('watch', function(){
+  gulp.watch('views/public/css/*.css', ['css']);
+  gulp.watch('views/public/js/*.js', ['js']);
+  gulp.watch('./views/*.jade', ['jade']);
+  // Other watchers
+})
 
 gulp.task('site', ['jade','css','js']);
+
