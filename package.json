@@ -4,7 +4,7 @@
   "private": "true",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js&gulp watch ",
     "build": "gulp site"
   },
   "repository": {
@@ -14,6 +14,7 @@
   "dependencies": {
     "express": "^3.0.0",
     "gulp": "^3.9.0",
+    "gulp-cssmin": "^0.1.7",
     "gulp-jade": "^1.1.0",
     "gulp-styl": "~1.1.0",
     "gulp-watch": "^4.3.5",
