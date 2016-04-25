@@ -147,8 +147,11 @@ p{
 	float: left;
 }
 .user_module_2{
-	margin: 100px 143px 0px 143px;
+	margin: 100px 10px 0px 143px;
 	float: left;
+}
+.user_module_2 a:hover{
+	color: #4DE288;
 }
 .window{
 	margin-left: auto;
