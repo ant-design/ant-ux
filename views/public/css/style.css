@@ -178,3 +178,46 @@ p{
 .footer_nav a:hover{
 	color: #4DE288;
 }
+@media(max-width:1200px){
+	.main{
+		width: inherit;
+		position: absolute;
+	}
+	.header{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.group_one_left{
+		left: 10%;
+		position: absolute;
+	}
+	.group_right img{
+		padding-left: 140px;
+		position: absolute;
+		left: 20%;
+
+	}
+}
+@media(max-width:1000px){
+	.main{
+		width: inherit;
+		position: absolute;
+	}
+	.header{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.group_one_left{
+		left: 10%;
+		position: absolute;
+		padding-top: 100px;
+	}
+	.group_right img{
+		padding-left: 140px;
+		position: absolute;
+		top: 300px;
+		float: left;
+		left: inherit;
+
+	}
+}
