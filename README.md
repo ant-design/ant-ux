@@ -1,83 +1,52 @@
-![](https://t.alipayobjects.com/images/T1yplhXkhiXXXXXXXX.png)
-
-### [Ant-UX](http://ux.ant.design/)
-
-#### 这是一套制作页面逻辑的素材库，当你在产品设计初期，可以用它来绘制页面与页面之间的逻辑图，帮助你了解产品架构，业务流程
-
-配合工具: OmniGraffle ,Sketch
-
-- OmniGraffle 可以用来绘制图表，流程图，组织结构图以及插图，也可以用来组织头脑中思考的信息，组织头脑风暴的结果，绘制心智图，作为样式管理器，或设计网页或PDF文档的原型。它具有采用拖放的所见即所得界面。所谓的 "Stencils" 一组用于拖放的形状—可以作为 OmniGraffle 的插件使用，用户也可以创建自定义的 Stencils。
-
-- Sketch 是一个矢量设计软件，可以帮助你快速投入UI设计当中
-
-### 使用方式
-
-- 1.获取我们的[最新版本](https://github.com/ant-design/ant-ux/releases) 
-- 2.点击文件导入到你的 OmniGraffle 中（如果没有 OmniGraffle 请先安装～）
-- 3.创建白板，在右侧素材库里调用 Ant-UX
-
-通过简单的拖拽，即可完成一个产品的逻辑图，如果不会操作 OmniGraffle ，可以看这里的 [初级教程](http://beforweb.com/node/202)，非常简单就能上手
-
-### 更新日记
-
-目前版本：v1.0
-
-- v1.0 
-  + 增加了两个典型页面
-  + 增加一个附加元素
-  + 增加 Sketch 版本
-
-- v0.6 
-  - 修改“附加模块”名称，改为“附加元素”
-  - 增加 19 个附加元素
-
-- v0.5 
-  - 添加了功能／子元素表现形式
-  - 增加Start，End 组件 
-  - 增加页面功能之间连线规则- v0.5 
-  - 添加了功能／子元素表现形式
-  - 增加Start，End 组件 
-  - 增加页面功能之间连线规则
-
-- v0.4  
-  - 增加8个页面布局模块
-  - 增加基础模块控件，两种描述表示方式
-
-- v0.3  
-  - 增加附加模块，8个图例
-  - 增加斜角矩形，代表数据
-
-- v0.2
-  - 增加12个典型页面模版，
-
-- v0.1
-  - 12个线性模版，
-  - 8个基础组件
-  - 以及页面与页面三种连接方式。
-  
+![](https://os.alipayobjects.com/rmsportal/rsMrkeBBgzXEeYg.svg)
 
 
-### 参考范例
+### Introduction
 
-待补充
+This is a materials library which assists designers to define, refine and finalise the inter-page logic of their products. At the early stage of the product design process, you can use it to draw the logic diagram between pages. Throughout this process, it can help you visualise and understand product architectures and business processes more easily.
 
-### 规范
+Complementary Tools: OmniGraffle，Sketch，Axure
 
-- 初步规范参考素材描述
-- 详细规范待补充
+* OmniGraffle is a software which can help you create precise and beautiful graphics ranging from website wireframes, flow charts, organization structure to illustrations. There are unlimited usage scenarios. For example, you can use it to facilitate thinking process, to visualise brain storm ideas, to draw mind map, to create prototypes of website and PDF files, or use it as a style manager. OmniGraffle provides extensive options for objects, canvases, templates, inspectors, and stencils, fully representing its nature of WYSIWYG. You can also customise your own "Stencils", a group of pre-defined drag-able elements.
 
-### 历史版本
+* Sketch is a vector graphics editor software to set you on track of UI design.
 
-- v1.0 2016.04.23
-- v0.6 2015.11.13
-- v0.5 2015.9.17
-- v0.4 2015.9.09
-- v0.3 2015.8.31
-- v0.2 2015.7.27
-- v0.1 2015.7.11
+[Chinese](https://github.com/ant-design/ant-ux/wiki/Ant-UX-%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D)
 
-### 帮助
+###  How to use
 
-我们不提供复杂页面模版，简单化主要为了解决设计师或工程师快速创建页面逻辑图.
-我们希望大家一起能参与到这个控件库的维护和升级，这样能帮助到很多的人。
-如果遇到问题 @[CaiCai](https://github.com/hi-caicai)
+* Download the latest version.
+* Import the file into your OmniGraffle. (If you do not have OminGraffle, please download one first)
+* Create a new canvas, and invoke Ant-UX from the library.
+
+It is very easy-to-use, and here is the [basic tutorial](http://beforweb.com/node/202).
+
+### Version History
+
+* v1.0   23 Apr 2016
+  * Add two typical pages.
+  * Add an additional element.
+  * Add "Sketch" version.
+* v0.6   13 Nov 2015
+  * Rename “additional modules” as “additional elements”
+  * Add 19 additional  elements.
+* v0.5   17 Sep 2015
+  * Add function/sub element.
+  * Add Start and End modules.
+  * Add linking rules between pages.
+* v0.4   9 Sep 2015
+  * Add 8 page layout modules.
+  * Add basic module control units and two types of description.  
+* v0.3   31 Aug 2015
+  *  Add 8 legend in additional module. 
+  * Add beveled rectangle to represent data.
+* v0.2   27 Jul 2015
+  * Add 12 typical page templates. 
+* v0.1   11 Jul 2015
+  * Provide 12 website wireframe templates.
+  * Provide 8 basic UI elements.
+  * Provide three connection modes between pages.
+
+### Support
+
+We don't provide complex templates,our goal is to help designers and programmers build logic page efficiently .We hope everyone can join us to maintain and improve this library, which in turn can help more people. If you have any questions please contact @[CaiCai](https://github.com/hi-caicai)

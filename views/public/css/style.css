@@ -65,6 +65,18 @@ p{
 	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
 	border-radius: 3px;
 	transition: all 0.3s;
+	width: 90px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	margin-top: 20px;
+	float: left;
+}
+.btn3{
+	background: #4DE288;
+	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
+	border-radius: 3px;
+	transition: all 0.3s;
 	width: 138px;
 	height: 38px;
 	line-height: 38px;
@@ -77,7 +89,7 @@ p{
 	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
 	border-radius: 3px;
 	transition: all 0.3s;
-	width: 138px;
+	width: 90px;
 	height: 38px;
 	line-height: 38px;
 	text-align: center;
@@ -150,9 +162,7 @@ p{
 	margin: 100px 10px 0px 143px;
 	float: left;
 }
-.user_module_2 a:hover{
-	color: #4DE288;
-}
+
 .window{
 	margin-left: auto;
 	margin-right: auto;
