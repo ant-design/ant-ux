@@ -44,6 +44,10 @@ p{
 	cursor:pointer;
 
 }
+.description a:hover{
+	color: #4DE288;
+	cursor:pointer;
+}
 .group_one_left{
 	float: left;
 	padding-top: 200px;

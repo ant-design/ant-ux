@@ -16,7 +16,7 @@ Complementary Tools: OmniGraffle，Sketch，Axure
 ###  How to use
 
 * Download the latest version.
-* Import the file into your OmniGraffle. (If you do not have OminGraffle, please download one first)
+* Import the file into your OmniGraffle,Sketch,Axure.
 * Create a new canvas, and invoke Ant-UX from the library.
 
 It is very easy-to-use, and here is the [basic tutorial](http://beforweb.com/node/202).
