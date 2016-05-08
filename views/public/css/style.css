@@ -45,8 +45,8 @@ p{
 
 }
 .twitter{
-	width: 80px;
 	float: left;
+	width: 80px;
 }
 .description a:hover{
 	color: #4DE288;
