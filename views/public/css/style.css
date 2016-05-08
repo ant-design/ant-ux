@@ -44,6 +44,10 @@ p{
 	cursor:pointer;
 
 }
+.twitter{
+	width: 80px;
+	float: left;
+}
 .description a:hover{
 	color: #4DE288;
 	cursor:pointer;
