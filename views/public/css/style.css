@@ -106,18 +106,23 @@ p{
 	margin-left: 10px;
 }
 .btn:hover{
-	box-shadow: 0px 7px 9px 0px rgba(193,204,215,0.80);
+	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
 	border-radius: 3px;
 	cursor:pointer;
 	color: #5E5E62;
 }
 .btn2:hover{
-	box-shadow: 0px 7px 9px 0px rgba(193,204,215,0.80);
+	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
 	border-radius: 3px;
 	cursor:pointer;
 	color: #5E5E62;
 }
-
+.btn3:hover{
+	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
+	border-radius: 3px;
+	cursor:pointer;
+	color: #5E5E62;
+}
 .group_right img{
 	padding-left: 100px;
 }
@@ -196,9 +201,8 @@ p{
 .footer_nav a:hover{
 	color: #4DE288;
 }
-@media(max-width:1200px){
+@media(max-width:1300px){
 	.main{
-		width: inherit;
 		position: absolute;
 	}
 	.header{
