@@ -16,7 +16,7 @@ Complementary Tools: OmniGraffle，Sketch，Axure
 ###  How to use
 
 * Download the latest version.
-* Import the file into your OmniGraffle,Sketch,Axure.
+* Import the file into your OmniGraffle, Sketch, Axure.
 * Create a new canvas, and invoke Ant-UX from the library.
 
 It is very easy-to-use, and here is the [basic tutorial](http://beforweb.com/node/202).
@@ -51,4 +51,4 @@ It is very easy-to-use, and here is the [basic tutorial](http://beforweb.com/nod
 
 ### Support
 
-We don't provide complex templates,our goal is to help designers and programmers build logic page efficiently .We hope everyone can join us to maintain and improve this library, which in turn can help more people. If you have any questions please contact @[CaiCai](https://github.com/hi-caicai)
+We don't provide complex templates,our goal is to help designers and programmers build logic page efficiently. We hope everyone can join us to maintain and improve this library, which in turn can help more people. If you have any question please contact @[CaiCai](https://github.com/hi-caicai)
