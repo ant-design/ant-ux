@@ -59,13 +59,14 @@ p{
 .logo{
 }
 .description{
-	padding-top: 20px;
+	padding-top: 10px;
 	width: 300px;
 	line-height: 20px;
 	letter-spacing: 0.5px;
 }
 .description p{
 	color: #5B5B5B;
+	letter-spacing: 0.5px;
 }
 
 .btn{
