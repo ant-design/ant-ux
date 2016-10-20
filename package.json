@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ant-design/ant-ux.git"
   },
   "dependencies": {
-    "express": "^3.0.0",
+    "express": "^4.0.0",
     "gulp": "^3.9.0",
     "gulp-cssmin": "^0.1.7",
     "gulp-jade": "^1.1.0",
