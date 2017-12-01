@@ -11,7 +11,7 @@ Complementary Tools: OmniGraffle，Sketch，Axure
 
 * Sketch is a vector graphics editor software to set you on track of UI design.
 
-[Chinese](https://github.com/ant-design/ant-ux/wiki/Ant-UX-%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D)
+[Chinese](https://github.com/ant-design/ant-ux/wiki/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D)
 
 ###  How to use
 
