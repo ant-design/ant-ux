@@ -26,6 +26,7 @@ It is very easy-to-use, and here is the [basic tutorial](http://beforweb.com/nod
 * v1.2   01 Dec 2017
   * Available in English
   * Add Affinity version
+  * Update the web site
 * v1.1   29 Apr 2016
   * Add "Axure" version.
 * v1.0   23 Apr 2016
