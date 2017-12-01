@@ -55,12 +55,11 @@ p{
 .group_one_left{
 	float: left;
 	padding-top: 200px;
-}
-.logo{
+	z-index: 1;
 }
 .description{
 	padding-top: 10px;
-	width: 300px;
+	width: 335px;
 	line-height: 20px;
 	letter-spacing: 0.5px;
 }
@@ -74,13 +73,14 @@ p{
 	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
 	border-radius: 3px;
 	transition: all 0.3s;
-	width: 90px;
+	width: 130px;
 	height: 38px;
 	line-height: 38px;
 	text-align: center;
 	margin-top: 20px;
 	float: left;
 }
+
 .btn3{
 	background: #4DE288;
 	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
@@ -93,18 +93,48 @@ p{
 	margin-top: 20px;
 	float: left;
 }
-.btn2{
+.btn3:hover{
+	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
+	border-radius: 3px;
+	cursor:pointer;
+	color: #5E5E62;
+}
+.dropdown {
+    position: relative;
+	display: inline-block;
 	background: #fff;
 	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
 	border-radius: 3px;
 	transition: all 0.3s;
-	width: 90px;
+	width: 130px;
 	height: 38px;
 	line-height: 38px;
 	text-align: center;
 	margin-top: 20px;
-	float: left;
 	margin-left: 10px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #F9FAFB;
+    min-width: 90px;
+	box-shadow: 0px 5px 7px 0px rgba(193,204,215,0.61);
+    padding: 2px 20px 20px 20px;
+	z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
+	border-radius: 3px;
+	cursor: pointer;
+	color: #4DE288;
+	transition: all 0.3s;
+}
+.dropdown-content li{
+	list-style: none;
+	text-align: left;
 }
 .btn:hover{
 	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
@@ -112,20 +142,11 @@ p{
 	cursor:pointer;
 	color: #5E5E62;
 }
-.btn2:hover{
-	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
-	border-radius: 3px;
-	cursor:pointer;
-	color: #5E5E62;
-}
-.btn3:hover{
-	box-shadow: 0px 8px 10px 0px rgba(193,204,215,0.80);
-	border-radius: 3px;
-	cursor:pointer;
-	color: #5E5E62;
-}
+
 .group_right img{
-	padding-left: 100px;
+	padding-left: 60px;
+	z-index: 0;
+	position: absolute;
 }
 
 .group_two{
