@@ -13,17 +13,17 @@
   },
   "dependencies": {
     "express": "^4.0.0",
-    "gulp": "^3.9.0",
-    "gulp-cssmin": "^0.1.7",
+    "gulp": "^4.0.0",
+    "gulp-cssmin": "^0.2.0",
     "gulp-jade": "^1.1.0",
-    "gulp-styl": "~1.1.0",
-    "gulp-watch": "^4.3.5",
+    "gulp-styl": "~3.0.0",
+    "gulp-watch": "^5.0.1",
     "jade": "~1.11.0",
     "jquery": "*",
-    "marked": "~0.3.3",
+    "marked": "~0.6.1",
     "nib": "~1.1.0"
   },
   "devDependencies": {
-    "gulp-sitemap": "~2.2.0"
+    "gulp-sitemap": "~6.2.0"
   }
 }
